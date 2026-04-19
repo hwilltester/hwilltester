@@ -29,10 +29,6 @@ real banking test strategies on GitHub.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [🤖 OrangeHRM Automation](https://github.com/hwilltester/OrangeHRM_Automation) | UI test automation — Login, Leave, Search flows | Robot Framework, Allure |
-| [🔌 Fintech API Testing](https://github.com/hwilltester/postman-api-testing) | Banking API scenarios + negative cases | Postman, Newman |
-| [🗄️ Banking SQL Scripts](https://github.com/hwilltester/sql-tester-portfolio) | QA-focused SQL queries with defect context | MySQL |
-| [📊 Loan Performance Test](https://github.com/hwilltester/loan-performance-test) | Load test 100–500 users | JMeter |
-| [📋 Banking UAT Docs](https://github.com/hwilltester/banking-uat-portfolio) | Test cases + RTM from real banking projects | Markdown |
 
 ---
 
