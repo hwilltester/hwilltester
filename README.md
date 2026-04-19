@@ -1,4 +1,4 @@
-# 👋 Htuu Will Oo — QA Engineer
+# 👋 Htuu Will Oo @ Will — QA Engineer
 
 **7+ years | Banking & Fintech | Manual → Automation**
 
