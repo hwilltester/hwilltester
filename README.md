@@ -44,6 +44,13 @@ real banking test strategies on GitHub.
 
 ---
 
+## 📄 Full Profile & Experience
+
+For detailed work history, certifications, and test case demos:
+👉 [View Full Portfolio](https://github.com/hwilltester/portfolio)
+
+---
+
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htuuwill/)
