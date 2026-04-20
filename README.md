@@ -30,6 +30,7 @@ real banking test strategies on GitHub.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [🤖 OrangeHRM Automation](https://github.com/hwilltester/OrangeHRM_Automation) | UI test automation — Login, Leave, Search flows | Robot Framework, Allure |
+| [📋 Banking UAT Docs](https://github.com/hwilltester/banking-uat-portfolio) | Real banking test cases + RTM | Markdown |
 
 ---
 
