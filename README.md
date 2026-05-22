@@ -31,7 +31,7 @@ real banking test strategies on GitHub.
 |---------|-------------|-------|
 | [🤖 OrangeHRM Automation](https://github.com/hwilltester/OrangeHRM_Automation) | UI test automation — Login, Leave, Search flows | Robot Framework |
 | [📋 Banking UAT Docs](https://github.com/hwilltester/banking-uat-portfolio) | Real banking test cases + RTM | Markdown |
-| [🗄️ SQL Test Scripts](https://github.com/hwilltester/banking-sql-scripts) | QA-focused banking queries | MySQL |
+| [🗄️ SQL Test Scripts](https://github.com/hwilltester/sql-test-scripts) | QA-focused banking queries | MySQL |
 | [🔌 API Testing Project](https://github.com/hwilltester/api-testing-portfolio) | REST API testing — Auth, CRUD, negative cases | Postman, Newman |
 
 ---
