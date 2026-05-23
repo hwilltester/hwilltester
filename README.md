@@ -44,7 +44,7 @@ real banking test strategies on GitHub.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hwilltester&show_icons=true&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=hwilltester&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 
 ---
 
