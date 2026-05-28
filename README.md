@@ -33,7 +33,7 @@ real banking test strategies on GitHub.
 | [📋 Banking UAT Docs](https://github.com/hwilltester/uat-documents) | Real banking test cases + RTM | Markdown |
 | [🗄️ SQL Test Scripts](https://github.com/hwilltester/sql-test-scripts) | QA-focused banking queries | MySQL |
 | [🔌 API Testing Project](https://github.com/hwilltester/api-testing-portfolio) | REST API testing — Auth, CRUD, negative cases | Postman, Newman |
-| [🤖 SauceDemo Automation](https://github.com/hwilltester/saucedemo-automation) | UI automation — POM, CI/CD, 12/12 passing | Robot Framework · [▶ Live Report](https://hwilltester.github.io/saucedemo-automation/report.html) |
+| [🤖 SauceDemo Automation](https://github.com/hwilltester/saucedemo-automation) | UI automation — POM, CI/CD | Robot Framework · [▶ Live Report](https://hwilltester.github.io/saucedemo-automation/report.html) |
 
 ---
 
